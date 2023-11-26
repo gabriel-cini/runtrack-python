@@ -1,0 +1,5 @@
+def chiffre_affiche():
+    for chiffre in range(0,21,2):
+        print(chiffre)
+
+chiffre_affiche()
